@@ -1,0 +1,15 @@
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\bin\Debug\net7.0\practico9.exe
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\bin\Debug\net7.0\practico9.deps.json
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\bin\Debug\net7.0\practico9.runtimeconfig.json
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\bin\Debug\net7.0\practico9.dll
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\bin\Debug\net7.0\practico9.pdb
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\practico9.csproj.AssemblyReference.cache
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\practico9.GeneratedMSBuildEditorConfig.editorconfig
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\practico9.AssemblyInfoInputs.cache
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\practico9.AssemblyInfo.cs
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\practico9.csproj.CoreCompileInputs.cache
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\practico9.dll
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\refint\practico9.dll
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\practico9.pdb
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\practico9.genruntimeconfig.cache
+D:\tallerLenguajes_1\tps\tl1_tp9_2023-AndreaValdecantos\practico9\obj\Debug\net7.0\ref\practico9.dll
